@@ -19,7 +19,7 @@ import android.widget.LinearLayout;
 import android.widget.PopupWindow;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-
+//≤‚ ‘Ã·Ωª
 public class MainActivity extends ActionBarActivity {
 
 	private Button toggle_btn;
