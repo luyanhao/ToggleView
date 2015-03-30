@@ -32,7 +32,7 @@ public class MainActivity extends ActionBarActivity {
 	private int type = EXPAND;
 
 	private PopupWindow popupWindow;// popupwindow
-
+  
 	private Button show_popupwindow;// 显示popupwindow按钮
 	private Button startProgress;// 进度条开始按钮
 	private ProgressBar mProgressBar;// 进度条（可自定义）
