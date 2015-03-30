@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/transfer_password_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dip"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <ProgressBar
+        android:id="@+id/loading_process_dialog_progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:indeterminate="false"
+        android:indeterminateDrawable="@drawable/dialog_style_xml_color" />
+
+</LinearLayout>
