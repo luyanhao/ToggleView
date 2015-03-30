@@ -13,6 +13,7 @@ import android.widget.TextView;
 
 public class ArcViewActivity extends Activity {
 
+	///再测试
 	private ArcBarView circle_progress;
 	private TextView percent_tv;
 	@SuppressLint("HandlerLeak")
